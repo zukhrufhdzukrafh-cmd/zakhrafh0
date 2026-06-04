@@ -104,7 +104,7 @@ function showCategoryProducts(){
         </div>
 
         <div class="product-card" onclick="openProduct('يلقات')">
-            <img src="images/يلقات.PNG">
+            <img src="images/يلقات.png">
             <p>يلقات</p>
         </div>`;
 
